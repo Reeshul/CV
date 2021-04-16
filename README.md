@@ -4,7 +4,7 @@
 
 I am a design-minded **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to UX design and product management.
 
-After graduating from Warwick University with a STEM background, I spent four years working in betting services. I picked up JavaScript, and deployed a [Chrome Extension](https://chrome.google.com/webstore/detail/cheeky-betting-plugin/pkklclgbjgmbcdbdfcifffbegblnpabc/related) to help with calculate betting amounts.
+After graduating from Warwick University with a STEM background, I spent four years working in betting services. I picked up JavaScript, and deployed a [Chrome Extension](https://chrome.google.com/webstore/detail/cheeky-betting-plugin/pkklclgbjgmbcdbdfcifffbegblnpabc/related) to calculate optimal betting stakes.
 
 After six months working as a frontend developer I enrolled in Makers software development bootcamp to grow into a well rounded programmer.
 
@@ -49,7 +49,7 @@ _Community Manager_
 | [Sloth](https://github.com/reeshul/sloth)           | Final Makers project: a mobile app that fetches the user's step count from the phone's pedometer. Users can track their step count and earn a beautiful and (almost) unique sloth every day after reaching their daily target. | React Native, SecureStore, Jest |
 | [Acebook](https://github.com/reeshul/acebook)           | A group project at Makers where the main goal was to mirror as closely as possibly a typical dev team's development process. A full stack CRUD application where users can post messages on other profiles. Deployed [to Heroku](http://hemo-acebook.herokuapp.com/) following a CI/CD pipeline.  | Rails, CircleCI |
 | [Chitter](https://github.com/reeshul/chitter)           | Individual project: a Twitter-like app that connects to a database following the MVC architecture and TDD principles.| Ruby, Sinatra, PostgresQL , Capybara, RSpec|
-| [Subway](https://github.com/reeshul/subway)           | Individual project: an Uber Eats style menu for Subway. Add, edit and remove orders for checkout. Deployed [to Netlify](https://vigilant-goldberg-82f00d.netlify.app/).  | React, styled components |
+| [Subway](https://github.com/reeshul/subway)           | Individual project: an Uber Eats style menu for Subway. Add, edit and remove items for order checkout. Deployed [to Netlify](https://vigilant-goldberg-82f00d.netlify.app/).  | React, styled components |
 
 There are many more on my [portfolio website](https://reeshul.com) and [GitHub](https://github.com/Reeshul?tab=repositories). 
 
