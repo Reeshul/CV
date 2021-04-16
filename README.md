@@ -14,7 +14,8 @@ After six months working as a frontend developer I enrolled in Makers software d
 _Frontend Developer_
 
 - Built a crowdfunding platform for scientists and researchers with the frontend team.
-- Developed robust components using React and Redux and other modern technologies.
+- Developed robust components using React, Redux Toolkit and Material-UI.
+- Took part in code reviews before changes were pushed into staging.
 - Other tasks include building pages from wireframe mockups and improving responsiveness.
 
 **Profit Squirrel** (Jan '19 - Mar '20)  
