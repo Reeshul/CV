@@ -15,7 +15,7 @@ _Frontend Developer_
 
 - Built a crowdfunding platform for scientists and researchers with the frontend team.
 - Developed robust components using React, Redux Toolkit and Material-UI.
-- Took part in code reviews before changes were pushed into staging.
+- Took part in code reviews before changes were pushed to staging.
 - Other tasks include building pages from wireframe mockups and improving responsiveness.
 
 **Profit Squirrel** (Jan '19 - Mar '20)  
@@ -30,7 +30,7 @@ _Product Editor_
 _Content Editor_
 
 - Produced content to notify customers of newly available bookmaker offers.
-- Collaborated with forum team to advise members and provide support.
+- Collaborated with the forum team to advise members and provide support.
 - Updated offer guides and training material as necessary.
 
 **Save the Student** (Jan '16 - Jun '18)  
@@ -82,7 +82,7 @@ I encouraged test driving code when feasible: writing meaningful tests (based on
 - **Pair programming**<br />
 I utilised my communication skills to frequently pair with multiple peers in my cohort.
 - **XP Values**<br />
-After group project sprints or pair programming I gave/received feedback and sought to keep features as simple as possible.
+After group project sprints or pair programming I gave and received feedback and sought to keep features as simple as possible.
 
 
 #### University of Warwick (Sep '12 - Jun '15)
